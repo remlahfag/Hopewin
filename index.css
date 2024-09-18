@@ -1,0 +1,14 @@
+*{
+    background-color: rebeccapurple;
+    font-size: larger;
+}
+p{
+    font-weight: 700;
+    line-height: 1.5;
+}
+h2{
+    color: black;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
